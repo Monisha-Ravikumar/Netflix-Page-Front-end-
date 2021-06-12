@@ -1,0 +1,33 @@
+body {
+    background-color: #000000;
+    width: 100%;
+}
+
+img#logo {
+    position: absolute;
+    top: 5px;
+    left: 565px;
+    width: 100px;
+}
+
+#nav1 {
+    display: inline-block;
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 2em;
+    font-family: 'roboto';
+    margin-right: 20px;
+    padding: 15px;
+}
+
+a:hover {
+    color: white;
+    background: #be0000;
+    padding: 15px;
+    border-radius: 10px;
+}
